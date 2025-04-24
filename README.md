@@ -14,7 +14,7 @@ A clean and distraction-free YouTube interface designed for students and deep fo
 
 ## Live Demo
 
-Try it now: [study.damnepic.top](https://study.damnepic.top)
+Try it now: [study-front-nine.vercel.app](https://study-front-nine.vercel.app)
 
 ## Screenshot
 
