@@ -1,4 +1,4 @@
-# YouTube No Ads - No distraction
+# Distraction-Free YouTube for Studying – No Ads, Clean UI, Dark Mode
 
 A clean and distraction-free YouTube interface designed for students and deep focus. No ads, no recommendations, just pure focus.
 
@@ -20,11 +20,15 @@ Try it now: [study-front-nine.vercel.app](https://study-front-nine.vercel.app)
 
 ![Screenshot](https://i.imgur.com/wmOgwHe.png)
 
-## Installation
+## About
 
-It's closed source for now.
-Enjoy!
+**study-front-nine.vercel.app** is built to help students and focused individuals block distractions, avoid autoplay traps, and stay in control of their YouTube usage.
 
-> **Note:** This project is **closed source**. No part of the code is available for public use or modification.  
-> **All rights reserved.**
-> 
+Looking for more simple, effective tools? Visit: [damnepic.top](https://damnepic.top)
+
+## Licensing
+
+This project is **closed source**. No part of the code is available for public use or modification.  
+**All rights reserved.**
+
+> Made with focus by **[damnepic](https://damnepic.top)**  
